@@ -3,4 +3,4 @@
 
 Download the game - https://atharvagangji.itch.io/flappy-bird
 
-![flappy-bird](https://github.com/atharvagangji/flappy-bird/assets/bluebird-midflap.png)
+![flappy-bird](https://github.com/AtharvaGangji/Flappy-Bird/blob/main/assets/bluebird-midflap.png)
